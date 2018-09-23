@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "448235630768",
+    "firebase_url": "https://foodsearch-f5d3c.firebaseio.com",
+    "project_id": "foodsearch-f5d3c",
+    "storage_bucket": "foodsearch-f5d3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448235630768:android:e098381f9d2b06df",
+        "android_client_info": {
+          "package_name": "com.theallasia.nhuda.foodsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448235630768-5o8plvm5qgm3f29j3a66p6cn4e313opa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa9jOzcfCuYhzOvjNhnGA0Mlk1QhbIrww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
